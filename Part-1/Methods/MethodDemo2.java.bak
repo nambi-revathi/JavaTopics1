@@ -1,0 +1,15 @@
+class MethodDemo2 
+{
+	public static void sita(){
+		System.out.println("Hii, Iam Sita");
+	}
+	public static void main(String[] args) 
+	{
+		ram();
+		sita();
+	}
+
+	public static void ram(){
+		System.out.println("Hii, Iam Ram");
+	}
+}
